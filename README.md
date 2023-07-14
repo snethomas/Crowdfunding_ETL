@@ -1,5 +1,11 @@
 # Crowdfunding_ETL
 Project 2 - Group 8
+Contributors:
+Beenish MM
+Nnamdi Ezeoke
+Sneha Thomas
+Stephanie Loomer
+Tekabe Fanta
 --
 We divided the SQL for the dataframe creation equally and created the four new CSV files.
 
